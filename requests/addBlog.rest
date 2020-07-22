@@ -1,0 +1,10 @@
+POST http://localhost:3003/api/blogs
+content-type: application/json
+
+{
+    "title":"My Seventh Blog",
+    "author":"Hello",
+    "url":"www.livetoeat.netlify.com",
+    "likes":2,
+    "user":"5ea3bb8ab93ac027e4a79ede"
+}
